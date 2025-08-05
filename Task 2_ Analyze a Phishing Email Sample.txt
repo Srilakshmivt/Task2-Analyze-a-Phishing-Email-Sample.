@@ -1,0 +1,129 @@
+﻿Task 2: Analyze a Phishing Email Sample.
+
+
+
+
+Objective:  Identify phishing characteristics in a suspicious email sample. 
+Tools:  Email client or saved email file (text), free online header analyzer. 
+Deliverables:  A report listing phishing indicators found
+
+
+
+
+ 1.Obtain a sample phishing email 
+Subject: Your Account Will Be Deactivated – Immediate Action Required
+ From: support@secure-mail.com
+To: srilakshmivt@gmail.com 
+Date: August 5, 2025
+Body:
+ Dear User,
+We have detected suspicious activity on your account. To ensure your security, please verify your information immediately by clicking the link below:
+Verify Now
+Failure to do so within 24 hours will result in account suspension.
+Thank you,
+Secure Mail Support.
+
+
+ 2 .Examine sender's email address for spoofing
+
+
+Suspicious Sender Address:
+
+
+Email:  support@secure-mail.com 
+
+
+Issue: The domain secure-mail.com is generic and not associated with any known organization.
+
+
+3.Look for urgent or threatening language in the email body.
+
+
+Phrases: "Immediate Action Required", "Failure to do so within 24 hours will result in account suspension."
+
+
+Issue: Creates a sense of urgency to prompt immediate action without scrutiny.
+
+
+
+
+
+
+4.Identify suspicious links or attachments.
+
+
+Suspicious Link:
+
+
+ Displayed Text:  [Verify Now]
+
+
+ Actual URL:  http://secure-update-info.com/verify 
+
+
+Issue: The link leads to an unrecognized domain, which could be a phishing site.
+
+
+5. Generic Greeting:
+
+
+Text: "Dear User"
+
+
+Issue: Lacks personalization, which is common in phishing 
+
+
+6.Grammar and Spelling Errors:
+
+
+Example: "Failure to do so within 24 hours will result in account suspension."
+
+
+Issue: While grammatically correct, the tone is unprofessional and threatening.
+
+
+7.Check email headers for discrepancies 
+
+
+Domain:  secure-update-info.com 
+
+
+Issue: Not associated with any legitimate organization.
+
+
+
+
+
+
+🛠️ Tools Used : -
+
+
+EML Analyzer : EML Analyzer /Email Header Analyzer
+VirusTotal: VirusTotal 
+
+
+Phishing Email Examples: Hook Security Phishing Email Examples
+mxtoolbox.com
+
+
+
+
+Conclusion 👍: 
+
+
+1.The email exhibits multiple phishing characteristics:
+
+
+2.Use of a suspicious sender address.
+
+
+3.Urgent and threatening language to prompt immediate action.
+
+
+4.Links to unrecognized and potentially malicious domains.
+
+
+5.Lack of personalization and professional tone.
+
+
+6.Recommendation: Do not click on any links or provide any personal information. Report     the email to your organization's IT department or email provider.
