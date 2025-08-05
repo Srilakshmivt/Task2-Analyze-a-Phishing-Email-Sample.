@@ -1,8 +1,13 @@
 # Task2-Analyze-a-Phishing-Email-Sample.
 This repository includes a phishing email sample and a detailed analysis report focused on identifying phishing indicators using multiple tools—including EML Analyzer ,VirusTotal.
 
-MxToolbox Email Header Analyzer: Converts raw headers into readable format and highlights SPF/DKIM results.
-VirusTotal Documentation: Detailed overview of how VirusTotal API can be used for URL/file scanning.
+1. MxToolbox Email Header Analyzer: Converts raw headers into readable format and highlights SPF/DKIM results.
+link : ( https://mxtoolbox.com)
+                                or
+EML Analyzer : Converts raw headers into readable format and highlights SPF/DKIM results.
+link :(https://eml-analyzer.herokuapp.com/)
+
+3. VirusTotal Documentation: Detailed overview of how VirusTotal API can be used for URL/file scanning.(https://www.virustotal.com)
 
 Why Include VirusTotal?
 
