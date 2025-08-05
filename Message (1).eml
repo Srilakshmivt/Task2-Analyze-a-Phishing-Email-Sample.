@@ -1,0 +1,144 @@
+MIME-Version: 1.0
+Content-Disposition: inline; filename="document.html"
+Content-Location: document.html
+Date: Tue, 5 Aug 2025 12:11:46 +0000
+Content-Type: multipart/alternative;
+ boundary="--_=_NextPart3_c38557f0-763b-4135-a0d8-4d49cea7ab48"
+
+This is a multi-part message in MIME format.
+
+----_=_NextPart3_c38557f0-763b-4135-a0d8-4d49cea7ab48
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Return-Path: <notifications@yourbank-alert=2Ecom>=0A=0AReceived: from fake=
+=2Emta=2Eattacker=2Enet (unknown [203=2E0=2E113=2E55])=0A=C2=A0=C2=A0=C2=A0 =
+by mail=2Eyourdomain=2Ecom with SMTP; Tue, 5 Aug 2025 12:34:56 +0530 Receiv=
+ed: from attacker-relay (relay=2Eattacker=2Enet [198=2E51=2E100=2E123])=0A=
+=C2=A0=C2=A0=C2=A0 by fake=2Emta=2Eattacker=2Enet with SMTP; Tue, 5 Aug 202=
+5 12:34:55 +0530 From: "YourBank Security Team" <notifications@yourbank-ale=
+rt=2Ecom> Reply-To: alerts@secure-yourbank=2Ecom=0ASubject: Urgent: Confirm=
+ Your Banking Credentials Immediately=0ATo: victim@example=2Ecom=0ADate: Tu=
+e, 5 Aug 2025 12:34:50 +0530=0AMIME-Version: 1=2E0=0AContent-Type: multipar=
+t/alternative; boundary=3D"phishboundary"=0A--phishboundary=0AContent-Type:=
+ text/plain; charset=3DUTF-8 Content-Transfer-Encoding: 7bit=0ADear Custome=
+r,=0AWe have noticed suspicious activity in your bank account=2E Please ver=
+ify your identity immediately:=0Ahttps://secure-yourbank-login=2Ecom/verify=
+=0AFailure to respond within 24 hours may result in temporary suspension=2E=
+=0ASincerely,=0AYourBank Security Team=0A--phishboundary=0AContent-Type: te=
+xt/html; charset=3DUTF-8 Content-Transfer-Encoding: 7bit=0A<html>=0A=C2=A0 =
+<body>=0A=C2=A0=C2=A0=C2=A0 <p>Dear Customer,</p>=0A=C2=A0=C2=A0=C2=A0 <p>Y=
+our account activity looks unusual=2E To avoid service disruption, please=
+=C2=A0=0A=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <a href=3D"https://secure-yourbank-=
+login=2Ecom/verify">click here to verify</a>=2E</p>=C2=A0=C2=A0=C2=A0=C2=A0 =
+<p>If we don=E2=80=99t hear from you within 24 hours, your account will be =
+temporarily suspended=2E</p>=0A=C2=A0=C2=A0=C2=A0 <p>Regards,<br>YourBank S=
+ecurity Team</p>=0A=C2=A0 </body>=0A</html>=0A
+----_=_NextPart3_c38557f0-763b-4135-a0d8-4d49cea7ab48
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8" /><meta http-equiv=3D"Content-Style-Type" content=3D"text/css" />=
+<meta name=3D"generator" content=3D"Aspose=2EWords for =2ENET 25=2E3=2E0" /=
+><title>Task 2: Analyze a Phishing Email Sample</title></head><body style=
+=3D"font-family:'Times New Roman'; font-size:12pt"><div><p style=3D"margin-=
+top:40=2E25pt; margin-bottom:0pt; text-align:justify; line-height:12=2E25pt=
+"><span style=3D"font-family:Arial; font-size:11pt; font-weight:bold">Retur=
+n-Path: &lt;notifications@yourbank-alert=2Ecom&gt; </span></p><p style=3D"m=
+argin-top:2=2E3pt; margin-bottom:0pt; text-align:justify; line-height:12=2E2=
+5pt"><span style=3D"font-family:Arial; font-size:11pt; font-weight:bold">Re=
+ceived: from fake=2Emta=2Eattacker=2Enet (unknown [203=2E0=2E113=2E55]) </s=
+pan></p><p style=3D"margin-top:0=2E05pt; margin-right:63pt; margin-bottom:0=
+pt; line-height:14=2E5pt"><span style=3D"font-family:Arial; font-size:11pt;=
+ font-weight:bold">&#xa0;&#xa0;&#xa0; </span><span style=3D"font-family:Ari=
+al; font-size:11pt; font-weight:bold">by mail=2Eyourdomain=2Ecom with SMTP;=
+ Tue, 5 Aug 2025 12:34:56 +0530 Received: from attacker-relay (relay=2Eatta=
+cker=2Enet [198=2E51=2E100=2E123]) </span></p><p style=3D"margin-top:0=2E05=
+pt; margin-right:66=2E85pt; margin-bottom:0pt; text-align:justify; line-hei=
+ght:14=2E5pt"><span style=3D"font-family:Arial; font-size:11pt; font-weight=
+:bold">&#xa0;&#xa0;&#xa0; </span><span style=3D"font-family:Arial; font-siz=
+e:11pt; font-weight:bold">by fake=2Emta=2Eattacker=2Enet with SMTP; Tue, 5 =
+Aug 2025 12:34:55 +0530 From: "YourBank Security Team" &lt;notifications@yo=
+urbank-alert=2Ecom&gt; Reply-To: alerts@secure-yourbank=2Ecom </span></p><p=
+ style=3D"margin-top:2=2E3pt; margin-bottom:0pt; text-align:justify; line-h=
+eight:12=2E25pt"><span style=3D"font-family:Arial; font-size:11pt; font-wei=
+ght:bold">Subject: Urgent: Confirm Your Banking Credentials Immediately </s=
+pan></p><p style=3D"margin-top:2=2E3pt; margin-bottom:0pt; text-align:justi=
+fy; line-height:12=2E25pt"><span style=3D"font-family:Arial; font-size:11pt=
+; font-weight:bold">To: victim@example=2Ecom </span></p><p style=3D"margin-=
+top:2=2E3pt; margin-bottom:0pt; text-align:justify; line-height:12=2E25pt">=
+<span style=3D"font-family:Arial; font-size:11pt; font-weight:bold">Date: T=
+ue, 5 Aug 2025 12:34:50 +0530 </span></p><p style=3D"margin-top:2=2E3pt; ma=
+rgin-bottom:0pt; text-align:justify; line-height:12=2E25pt"><span style=3D"=
+font-family:Arial; font-size:11pt; font-weight:bold">MIME-Version: 1=2E0 </=
+span></p><p style=3D"margin-top:2=2E3pt; margin-bottom:0pt; text-align:just=
+ify; line-height:12=2E25pt"><span style=3D"font-family:Arial; font-size:11p=
+t; font-weight:bold">Content-Type: multipart/alternative; boundary=3D"phish=
+boundary" </span></p><p style=3D"margin-top:16=2E85pt; margin-bottom:0pt; t=
+ext-align:justify; line-height:12=2E25pt"><span style=3D"font-family:Arial;=
+ font-size:11pt; font-weight:bold">--phishboundary </span></p><p style=3D"m=
+argin-top:0=2E05pt; margin-right:225=2E55pt; margin-bottom:0pt; line-height=
+:14=2E5pt"><span style=3D"font-family:Arial; font-size:11pt; font-weight:bo=
+ld">Content-Type: text/plain; charset=3DUTF-8 Content-Transfer-Encoding: 7b=
+it </span></p><p style=3D"margin-top:16=2E85pt; margin-bottom:0pt; text-ali=
+gn:justify; line-height:12=2E25pt"><span style=3D"font-family:Arial; font-s=
+ize:11pt; font-weight:bold">Dear Customer, </span></p><p style=3D"margin-to=
+p:14=2E6pt; margin-bottom:0pt; line-height:14=2E5pt"><span style=3D"font-fa=
+mily:Arial; font-size:11pt; font-weight:bold">We have noticed suspicious ac=
+tivity in your bank account=2E Please verify your identity immediately: </s=
+pan></p><p style=3D"margin-top:2=2E3pt; margin-bottom:0pt; text-align:justi=
+fy; line-height:12=2E25pt"><span style=3D"font-family:Arial; font-size:11pt=
+; font-weight:bold">https://secure-yourbank-login=2Ecom/verify </span></p><=
+p style=3D"margin-top:16=2E85pt; margin-bottom:0pt; text-align:justify; lin=
+e-height:12=2E25pt"><span style=3D"font-family:Arial; font-size:11pt; font-=
+weight:bold">Failure to respond within 24 hours may result in temporary sus=
+pension=2E </span></p><p style=3D"margin-top:16=2E85pt; margin-bottom:0pt; =
+text-align:justify; line-height:12=2E25pt"><span style=3D"font-family:Arial=
+; font-size:11pt; font-weight:bold">Sincerely, </span></p><p style=3D"margi=
+n-top:2=2E3pt; margin-bottom:0pt; text-align:justify; line-height:12=2E25pt=
+"><span style=3D"font-family:Arial; font-size:11pt; font-weight:bold">YourB=
+ank Security Team </span></p><p style=3D"margin-top:16=2E85pt; margin-botto=
+m:0pt; text-align:justify; line-height:12=2E25pt"><span style=3D"font-famil=
+y:Arial; font-size:11pt; font-weight:bold">--phishboundary </span></p><p st=
+yle=3D"margin-top:0=2E05pt; margin-right:228pt; margin-bottom:0pt; line-hei=
+ght:14=2E5pt"><span style=3D"font-family:Arial; font-size:11pt; font-weight=
+:bold">Content-Type: text/html; charset=3DUTF-8 Content-Transfer-Encoding: =
+7bit </span></p><p style=3D"margin-top:16=2E85pt; margin-bottom:0pt; text-a=
+lign:justify; line-height:12=2E25pt"><span style=3D"font-family:Arial; font=
+-size:11pt; font-weight:bold">&lt;html&gt; </span></p><p style=3D"margin-to=
+p:2=2E3pt; margin-bottom:0pt; text-align:justify; line-height:12=2E25pt"><s=
+pan style=3D"font-family:Arial; font-size:11pt; font-weight:bold">&#xa0; </=
+span><span style=3D"font-family:Arial; font-size:11pt; font-weight:bold">&l=
+t;body&gt; </span></p><p style=3D"margin-top:2=2E3pt; margin-bottom:0pt; te=
+xt-align:justify; line-height:12=2E25pt"><span style=3D"font-family:Arial; =
+font-size:11pt; font-weight:bold">&#xa0;&#xa0;&#xa0; </span><span style=3D"=
+font-family:Arial; font-size:11pt; font-weight:bold">&lt;p&gt;Dear Customer=
+,&lt;/p&gt; </span></p><p style=3D"margin-top:2=2E3pt; margin-bottom:0pt; t=
+ext-align:justify; line-height:12=2E25pt"><span style=3D"font-family:Arial;=
+ font-size:11pt; font-weight:bold">&#xa0;&#xa0;&#xa0; </span><span style=3D"=
+font-family:Arial; font-size:11pt; font-weight:bold">&lt;p&gt;Your account =
+activity looks unusual=2E To avoid service disruption, please</span><span s=
+tyle=3D"font-family:Arial; font-size:11pt; font-weight:bold">&#xa0; </span>=
+</p><p style=3D"margin-top:0=2E05pt; margin-bottom:0pt; line-height:14=2E5p=
+t"><span style=3D"font-family:Arial; font-size:11pt; font-weight:bold">&#xa=
+0;&#xa0;&#xa0;&#xa0;&#xa0; </span><span style=3D"font-family:Arial; font-si=
+ze:11pt; font-weight:bold">&lt;a href=3D"https://secure-yourbank-login=2Eco=
+m/verify"&gt;click here to verify&lt;/a&gt;=2E&lt;/p&gt;</span><span style=
+=3D"font-family:Arial; font-size:11pt; font-weight:bold">&#xa0;&#xa0;&#xa0;=
+&#xa0; </span><span style=3D"font-family:Arial; font-size:11pt; font-weight=
+:bold">&lt;p&gt;If we don=E2=80=99t hear from you within 24 hours, your acc=
+ount will be temporarily suspended=2E&lt;/p&gt; </span></p><p style=3D"marg=
+in-top:2=2E3pt; margin-bottom:0pt; text-align:justify; line-height:12=2E25p=
+t"><span style=3D"font-family:Arial; font-size:11pt; font-weight:bold">&#xa=
+0;&#xa0;&#xa0; </span><span style=3D"font-family:Arial; font-size:11pt; fon=
+t-weight:bold">&lt;p&gt;Regards,&lt;br&gt;YourBank Security Team&lt;/p&gt; =
+</span></p><p style=3D"margin-top:2=2E3pt; margin-bottom:0pt; text-align:ju=
+stify; line-height:12=2E25pt"><span style=3D"font-family:Arial; font-size:1=
+1pt; font-weight:bold">&#xa0; </span><span style=3D"font-family:Arial; font=
+-size:11pt; font-weight:bold">&lt;/body&gt; </span></p><p style=3D"margin-t=
+op:2=2E3pt; margin-bottom:0pt; text-align:justify; line-height:12=2E25pt"><=
+span style=3D"font-family:Arial; font-size:11pt; font-weight:bold">&lt;/htm=
+l&gt; </span></p></div></body></html>
+----_=_NextPart3_c38557f0-763b-4135-a0d8-4d49cea7ab48--
+
